@@ -1,0 +1,15 @@
+# 1. Java 编译产物（最重要！）
+*.class
+
+# 2. VS Code 编辑器的本地配置（防止把你的个人设置传给同学）
+.vscode/
+
+# 3. 日志文件
+*.log
+
+# 4. Windows 系统自带的垃圾文件
+Thumbs.db
+Desktop.ini
+
+# 5. Mac 系统的垃圾文件（以后如果你换 Mac 会用到）
+.DS_Store
